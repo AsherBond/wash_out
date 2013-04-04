@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WashOut
 
 WashOut is a gem that greatly simplifies creation of SOAP service providers.
@@ -174,3 +175,9 @@ soap_action "foo" # this will be passed as is
 ## LICENSE
 
 It is free software, and may be redistributed under the terms of MIT license.
+=======
+wash_out
+========
+
+Original repository moved to: https://github.com/inossidabile/wash_out
+>>>>>>> d8d7566c150526d2e1fb5a3aa0e36ee247f0a830
